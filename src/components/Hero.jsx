@@ -21,7 +21,7 @@ const Hero = () => {
             {/* Background Image with Overlay */}
             <div className="absolute inset-0 z-0">
                 <img
-                    src="/hero-solar.png"
+                    src={`${import.meta.env.BASE_URL}hero-solar.png`}
                     alt="Solar panels installation"
                     className="w-full h-full object-cover"
                 />

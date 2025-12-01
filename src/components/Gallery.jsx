@@ -19,6 +19,12 @@ const Gallery = () => {
         setSliderPosition(50);
     };
 
+    const getImagePath = (path) => {
+        // Remove leading slash if present to avoid double slashes
+        const cleanPath = path.startsWith('/') ? path.slice(1) : path;
+        return `${import.meta.env.BASE_URL}${cleanPath}`;
+    };
+
     const currentImage = galleryData[activeIndex];
 
     return (
@@ -41,7 +47,7 @@ const Gallery = () => {
                             {/* Before Image */}
                             <div className="absolute inset-0">
                                 <img
-                                    src={currentImage.before}
+                                    src={getImagePath(currentImage.before)}
                                     alt="Before installation"
                                     className="w-full h-full object-cover"
                                 />
@@ -58,7 +64,7 @@ const Gallery = () => {
                                 }}
                             >
                                 <img
-                                    src={currentImage.after}
+                                    src={getImagePath(currentImage.after)}
                                     alt="After installation"
                                     className="w-full h-full object-cover"
                                 />
@@ -130,12 +136,12 @@ const Gallery = () => {
                                         setSliderPosition(50);
                                     }}
                                     className={`relative h-24 rounded-lg overflow-hidden transition-all duration-300 ${index === activeIndex
-                                            ? 'ring-4 ring-solar-orange scale-105'
-                                            : 'opacity-60 hover:opacity-100'
+                                        ? 'ring-4 ring-solar-orange scale-105'
+                                        : 'opacity-60 hover:opacity-100'
                                         }`}
                                 >
                                     <img
-                                        src={item.after}
+                                        src={getImagePath(item.after)}
                                         alt={item.title}
                                         className="w-full h-full object-cover"
                                     />

@@ -18,7 +18,7 @@ const Navbar = () => {
                     <div className="flex justify-between items-center h-14 sm:h-16">
                         {/* Logo */}
                         <div className="flex items-center space-x-2 sm:space-x-3">
-                            <img src="/logo.png" alt="Krtrim Solar Logo" className="w-7 h-7 sm:w-8 sm:h-8" />
+                            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Krtrim Solar Logo" className="w-7 h-7 sm:w-8 sm:h-8" />
                             <span className="text-base sm:text-lg font-display font-bold text-white tracking-tight">Krtrim Solar</span>
                         </div>
 
