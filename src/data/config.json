@@ -1,0 +1,12 @@
+{
+    "whatsapp": {
+        "enabled": true,
+        "phoneNumber": "919999999999",
+        "message": "Hello! I'm interested in solar installation services."
+    },
+    "resend": {
+        "apiKey": "YOUR_RESEND_API_KEY_HERE",
+        "fromEmail": "onboarding@resend.dev",
+        "toEmail": "your-email@example.com"
+    }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Rajesh Kumar",
+        "location": "Noida, UP",
+        "rating": 5,
+        "text": "Excellent service! The team was professional and the installation was completed on time. My electricity bill has dropped significantly.",
+        "image": null
+    },
+    {
+        "id": 2,
+        "name": "Priya Sharma",
+        "location": "Delhi, NCR",
+        "rating": 5,
+        "text": "I was hesitant at first, but Krtrim Solar made the process so easy. They handled all the paperwork and the subsidy process. Highly recommended!",
+        "image": null
+    },
+    {
+        "id": 3,
+        "name": "Amit Patel",
+        "location": "Gurugram, Haryana",
+        "rating": 5,
+        "text": "Best investment for my home. The panels look great and the app monitoring is very useful. Great after-sales support too.",
+        "image": null
+    }
+]

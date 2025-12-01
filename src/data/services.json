@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Residential Solar",
+        "description": "Complete solar solutions for homes. Reduce your electricity bills by up to 90% with our premium rooftop installations.",
+        "features": [
+            "Custom Design",
+            "High Efficiency",
+            "20+ Year Warranty"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Commercial Solar",
+        "description": "Large-scale solar installations for businesses, industries, and institutions. Maximize ROI with minimal downtime.",
+        "features": [
+            "Scalable Solutions",
+            "Fast Installation",
+            "Energy Monitoring"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Educational Institutions",
+        "description": "Power schools and colleges with clean energy. Create a sustainable learning environment for future generations.",
+        "features": [
+            "Cost Effective",
+            "Educational Value",
+            "Green Campus"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Solar Panel Cleaning",
+        "description": "Professional cleaning and maintenance services to ensure optimal performance and longevity of your solar panels.",
+        "features": [
+            "Regular Maintenance",
+            "Performance Boost",
+            "Extend Lifespan"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "System Maintenance",
+        "description": "Comprehensive maintenance packages with regular inspections, performance monitoring, and quick repairs.",
+        "features": [
+            "24/7 Support",
+            "Expert Technicians",
+            "Preventive Care"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Consultation & Design",
+        "description": "Free consultation and custom system design to maximize your solar investment and energy savings.",
+        "features": [
+            "Free Site Survey",
+            "Custom Plans",
+            "ROI Analysis"
+        ]
+    }
+]

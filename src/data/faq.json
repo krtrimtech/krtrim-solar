@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "question": "How much does a solar panel installation cost?",
+        "answer": "The cost varies based on system size, location, and requirements. Residential systems typically range from ₹60,000 to ₹3,00,000. We offer free consultations and custom quotes to give you accurate pricing for your specific needs."
+    },
+    {
+        "id": 2,
+        "question": "How long does solar panel installation take?",
+        "answer": "Most residential installations are completed within 1-3 days. Commercial projects may take 1-2 weeks depending on the size. We ensure minimal disruption to your daily operations."
+    },
+    {
+        "id": 3,
+        "question": "What is the lifespan of solar panels?",
+        "answer": "Our premium solar panels come with a 20-25 year warranty and can last 30+ years with proper maintenance. The efficiency may decrease slightly over time (typically 0.5% per year), but they continue to generate significant power."
+    },
+    {
+        "id": 4,
+        "question": "Will solar panels work during cloudy days or monsoon?",
+        "answer": "Yes! Solar panels still generate electricity on cloudy days, though at reduced efficiency (10-25% of normal output). Our systems are designed to work in India's varied climate conditions. Any excess energy produced during sunny days is stored or fed back to the grid."
+    },
+    {
+        "id": 5,
+        "question": "What maintenance do solar panels require?",
+        "answer": "Solar panels require minimal maintenance. We recommend cleaning every 2-3 months to remove dust and debris, which we offer as a service. Our systems also include monitoring to alert you of any issues."
+    },
+    {
+        "id": 6,
+        "question": "Can I sell excess electricity back to the grid?",
+        "answer": "Yes! With net metering, you can sell excess electricity back to your utility company. This helps offset your electricity costs even further. We assist with all necessary paperwork and approvals."
+    },
+    {
+        "id": 7,
+        "question": "What subsidies are available for solar installations?",
+        "answer": "The Indian government offers various subsidies and incentives for solar installations. Residential users can get up to 40% subsidy on rooftop solar. We help you navigate the subsidy application process."
+    },
+    {
+        "id": 8,
+        "question": "How much can I save on electricity bills?",
+        "answer": "Most customers save 70-90% on their electricity bills. The exact savings depend on your current consumption, system size, and local electricity rates. Typical ROI is achieved within 3-5 years."
+    }
+]

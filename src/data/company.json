@@ -1,0 +1,51 @@
+{
+  "company": {
+    "name": "Krtrim Solar",
+    "tagline": "Power Your Future with Clean Solar Energy",
+    "description": "India's premier solar installation and maintenance service. We bring sustainable energy solutions to homes, businesses, and schools across the nation.",
+    "mission": "With over a decade of experience in renewable energy, Krtrim Solar has become India's trusted partner for solar solutions. We're committed to delivering excellence in every project, from residential installations to large commercial deployments.",
+    "vision": "Our mission is simple: make clean, sustainable energy accessible to everyone across India. We combine cutting-edge technology with expert craftsmanship to deliver solar systems that perform exceptionally for years to come."
+  },
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "value": "50+",
+      "label": "Cities Covered"
+    },
+    {
+      "value": "98%",
+      "label": "Client Satisfaction"
+    }
+  ],
+  "experience": [
+    {
+      "value": "10+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "100%",
+      "label": "Green Energy"
+    }
+  ],
+  "features": [
+    {
+      "title": "Certified Experts",
+      "description": "Government certified solar installation professionals"
+    },
+    {
+      "title": "Premium Equipment",
+      "description": "Top-tier solar panels and inverters from leading brands"
+    },
+    {
+      "title": "Best Value",
+      "description": "Competitive pricing with unmatched quality and service"
+    },
+    {
+      "title": "Fast Installation",
+      "description": "Quick and efficient setup with minimal disruption"
+    }
+  ]
+}

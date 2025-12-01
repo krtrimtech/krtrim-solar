@@ -1,0 +1,24 @@
+{
+    "contact": {
+        "phones": [
+            "+91 XXXXX XXXXX",
+            "+91 XXXXX XXXXX"
+        ],
+        "emails": [
+            "info@krtrimsolar.com",
+            "support@krtrimsolar.com"
+        ],
+        "coverage": "All over India",
+        "cities": "50+ Cities"
+    },
+    "businessHours": {
+        "weekdays": "Monday - Saturday: 9:00 AM - 7:00 PM",
+        "weekend": "Sunday: 10:00 AM - 5:00 PM"
+    },
+    "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#",
+        "linkedin": "#"
+    }
+}

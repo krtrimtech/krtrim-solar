@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Residential Rooftop - Mumbai",
+        "before": "/hero-no-solar.png",
+        "after": "/hero-solar.png",
+        "description": "3kW solar installation transformed this home's energy consumption"
+    },
+    {
+        "id": 2,
+        "title": "Commercial Building - Delhi",
+        "before": "/hero-no-solar.png",
+        "after": "/hero-solar.png",
+        "description": "50kW system reduced electricity costs by 80%"
+    },
+    {
+        "id": 3,
+        "title": "Educational Campus - Bangalore",
+        "before": "/hero-no-solar.png",
+        "after": "/hero-solar.png",
+        "description": "Complete solar coverage for sustainable campus"
+    }
+]

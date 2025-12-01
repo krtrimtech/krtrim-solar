@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Commercial Complex - Mumbai",
+        "type": "Commercial",
+        "capacity": "250 kW",
+        "image": "/commercial-solar.png",
+        "description": "Large-scale installation powering an entire business complex"
+    },
+    {
+        "id": 2,
+        "title": "Residential Society - Delhi",
+        "type": "Residential",
+        "capacity": "100 kW",
+        "image": "/hero-solar.png",
+        "description": "Community solar project for 50+ households"
+    },
+    {
+        "id": 3,
+        "title": "Educational Campus - Bangalore",
+        "type": "Institutional",
+        "capacity": "500 kW",
+        "image": "/commercial-solar.png",
+        "description": "Complete energy solution for a major educational institution"
+    }
+]
